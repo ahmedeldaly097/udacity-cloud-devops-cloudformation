@@ -5,14 +5,14 @@ This is one of the project in Udacity Cloud DevOps Engineer Nanodegree.
 Assume that one company is creating Instagram like application. Developers have developed the code and pushed the code into the S3 bucket on AWS. Now the task is to create the infrastructure for deploying that application in an automated way using CloudFormation following the best practices and once infrastructure is ready, deploy that application code onto that HA infrastructure.
 
 ## Project Files
-- `create.sh`: Creation file.
-- `update.sh`: Updating file.
-- `delete.sh`: Deleting file.
-- `diagram.png`: This describes the architecture diagram of this project.
-- `network-parameter.json`: Parameters file for network cloud formation stack.
-- `network.yml`: CloudFormation template for creating networking resources for this project.
-- `servers-parameter.json`: Parameters file for servers cloud formation stack.
-- `servers.yml`: CloudFormation template for creating servers for this project.
+- `create.sh` : Creation file.
+- `update.sh` : Updating file.
+- `delete.sh` : Deleting file.
+- `diagram.png` : This describes the architecture diagram of this project.
+- `network-parameter.json` : Parameters file for network cloud formation stack.
+- `network.yml` : CloudFormation template for creating networking resources for this project.
+- `servers-parameter.json` : Parameters file for servers cloud formation stack.
+- `servers.yml` : CloudFormation template for creating servers for this project.
 
 ## Project Setup
 
