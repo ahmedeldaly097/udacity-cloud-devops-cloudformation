@@ -38,4 +38,4 @@ $ ./create.sh infra-servers servers.yml servers-parameter.json
     -   Auto Scaling Group
     -   Load Balancer
     -   Target Group
-- Once the above steps are complete, you can find the URL of application in the outputs section of `udagram-servers-stack` CloudFormarion stack.
+- Once the above steps are complete, you can find the URL of application in the outputs section of `infra-servers` CloudFormarion stack.
