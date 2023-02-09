@@ -40,3 +40,4 @@ $ ./create.sh infra-servers servers.yml servers-parameter.json
     -   Load Balancer
     -   Target Group
 - Once the above steps are complete, you can find the URL of application in the outputs section of `infra-servers` CloudFormarion stack.
+
